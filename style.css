@@ -1,0 +1,39 @@
+body {
+    background-color: #99a98f;
+    font-family: moslaq;
+}
+
+.container {
+    direction: rtl;
+    padding: 25px;
+    background-color: #d6e8db;
+    border-top:#fff8de 8px solid;
+    border-radius: 10px;
+    margin: 90px;
+}
+
+#pQuets {
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #99a98f;
+    background-color: #fff8de;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 19px;
+    float: left;
+    cursor: pointer;
+}
+
+i{
+    font-size: 25px;
+    color: #99a98f;
+}
+@font-face {
+    font-family: moslaq;
+    src: url(moslaq.ttf);
+}
