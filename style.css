@@ -15,7 +15,7 @@ body {
 #pQuets {
     padding: 10px 15px;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 a {
@@ -24,7 +24,7 @@ a {
     background-color: #fff8de;
     padding: 10px;
     border-radius: 10px;
-    font-size: 19px;
+    font-size: 18px;
     float: left;
     cursor: pointer;
 }
@@ -32,6 +32,12 @@ a {
 i{
     font-size: 25px;
     color: #99a98f;
+}
+
+#nameOfQuote{
+    color: #99a98f;
+    font-weight: bold;
+    font-size: 15px;
 }
 @font-face {
     font-family: moslaq;
